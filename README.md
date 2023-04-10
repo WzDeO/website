@@ -1,3 +1,3 @@
 # website
 
-🔗 A small website that I have created about myself. (you can take it and edit as you like)
+🔗 A small website that I have created to give beginners ideas to do there own projects.
